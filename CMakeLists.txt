@@ -1,1 +1,1 @@
-Project(spartanhero-resources)
+Project(more-resources)
